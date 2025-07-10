@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    volumes:
+      - ./:/var/www/html  # Sincroniza o código local com o container
+    working_dir: /var/www/html
+    # Comando para manter o container ativo
+    command: tail -f /dev/null

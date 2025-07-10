@@ -1,0 +1,15 @@
+{
+  "name": "william-moura/advanced-logger",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "AdvancedLogger\\": "src/"
+    }
+  },
+  "require": {
+    "psr/log": "^3.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  }
+}
