@@ -78,11 +78,11 @@ Envie: git push origin feat/nova-funcionalidade
 5.Open a Pull Request | Abra um Pull Request
 
 ## 📜 License | Licença
-
+GPL-3.0 License - See LICENSE for details.
 
 ## 📬 Contact | Contato
 Email: williammoura908@gmail.com
 
-GitHub: @william-moura
+GitHub: @WilliamMoura
 
 Issues: Report a bug
