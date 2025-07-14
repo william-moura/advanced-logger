@@ -85,4 +85,4 @@ Email: williammoura908@gmail.com
 
 GitHub: [@william-moura](https://github.com/william-moura)
 
-Issues: Report a bug
+Issues: [Report a bug](https://github.com/william-moura/advanced-logger/issues)
