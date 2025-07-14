@@ -95,4 +95,4 @@ If this library helped you in your projects, consider buying me a coffee to keep
 Português:
 Se esta biblioteca te ajudou em seus projetos, considere me pagar um café para manter o desenvolvimento ativo! Seu apoio me ajuda a criar mais ferramentas open-source e manter as existentes.
 
-[https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black](https://buymeacoffee.com/williammoura)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/williammoura)
