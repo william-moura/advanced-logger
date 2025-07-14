@@ -85,3 +85,14 @@ Email: williammoura908@gmail.com
 GitHub: [@william-moura](https://github.com/william-moura)
 
 Issues: [Report a bug](https://github.com/william-moura/advanced-logger/issues)
+
+
+
+## ☕ Support the Project | Apoie o Projeto
+English:
+If this library helped you in your projects, consider buying me a coffee to keep the development alive! Your support helps me create more open-source tools and maintain existing ones.
+
+Português:
+Se esta biblioteca te ajudou em seus projetos, considere me pagar um café para manter o desenvolvimento ativo! Seu apoio me ajuda a criar mais ferramentas open-source e manter as existentes.
+
+[https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black](https://buymeacoffee.com/williammoura)
