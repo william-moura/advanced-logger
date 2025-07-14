@@ -25,7 +25,7 @@ Uma biblioteca de registro (logging) leve e extensível para PHP com suporte a m
 ## 🚀 Installation | Instalação
 
 ```bash
-composer require seu-nome/advanced-logger
+composer require william-moura/advanced-logger
 ```
 ## 📖 Basic Usage | Uso Básico
 ```
