@@ -26,7 +26,7 @@ Uma biblioteca de registro (logging) leve e extensível para PHP com suporte a m
 
 ```bash
 composer require seu-nome/advanced-logger
-
+```
 ## 📖 Basic Usage | Uso Básico
 ```
 use AdvancedLogger\Logger;
