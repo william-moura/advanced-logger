@@ -1,5 +1,6 @@
 {
   "name": "william-moura/advanced-logger",
+  "description": "A lightweight, extensible logging library for PHP with multi-handler support",
   "type": "library",
   "autoload": {
     "psr-4": {
