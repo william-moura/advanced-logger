@@ -43,10 +43,9 @@ $logger->error('Failed to connect to API', ['exception' => $e->getMessage()]);
 ```
 
 ## 🔧 Available Handlers | Handlers Disponíveis
-### Handler	Description	Descrição
-#### FileHandler	Logs to files (supports rotation).
+### Handler	Description
 ```
-| Registra em arquivos (com rotação). |
+| FileHandler Logs to files (supports rotation). |
 | TelegramHandler | Sends logs to Telegram.
 | Envia logs para o Telegram. |
 | DatabaseHandler | Stores logs in MySQL/PostgreSQL.
