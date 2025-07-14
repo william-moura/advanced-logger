@@ -2,7 +2,7 @@
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-blue.svg)](https://php.net)
 [![PSR-3 Compliant](https://img.shields.io/badge/PSR--3-compliant-blueviolet.svg)](https://www.php-fig.org/psr/psr-3/)
-[![License: GPL-3.0](license-logos-by-christian-candena-cc-by.png)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A lightweight, extensible logging library for PHP with multi-handler support.  
 Uma biblioteca de registro (logging) leve e extensível para PHP com suporte a múltiplos handlers.
