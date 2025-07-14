@@ -83,6 +83,6 @@ GPL-3.0 License - See LICENSE for details.
 ## 📬 Contact | Contato
 Email: williammoura908@gmail.com
 
-GitHub: @WilliamMoura
+GitHub: [@william-moura](https://github.com/william-moura)
 
 Issues: Report a bug
