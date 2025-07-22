@@ -42,14 +42,14 @@ abstract class AbstractLogger implements LoggerInterface
     /**
      * Método principal (deve ser implementado pelas classes filhas).
      */
-    abstract public function log($level, string|\Stringable $message, array $context = []): void;
+    abstract public function log($level, $message, array $context = []): void;
 
     /**
      * Métodos de atalho (PSR-3):
      * - Convertem chamadas como info() para log() com o nível correspondente.
      */
 
-    public function emergency(string|\Stringable $message, array $context = []): void
+    public function emergency($message, array $context = []): void
     {
         $this->log(LogLevel::EMERGENCY, $message, $context);
     }
